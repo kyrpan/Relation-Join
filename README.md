@@ -1,4 +1,4 @@
-# relation_join
+# Relation-Join
 Join of two relations R(a,b) and S(a,c) with 'a' as a connection field
 
 Different ways to implement the join of two relations with Scala:
